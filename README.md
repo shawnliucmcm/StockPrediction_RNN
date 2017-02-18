@@ -17,5 +17,5 @@
 
 
 #### Result after 2000 Run
-[![AMD stock test](/img/test.png)]
+[![AMD stock test](https://github.com/shawnliucmcm/StockPrediction_RNN/tree/master/image/test.png)]
 	
