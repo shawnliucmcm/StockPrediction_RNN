@@ -15,4 +15,7 @@
 	cuda (to run examples on GPU)
 	matplotlib (to draw plots)
 
+
+#### Result after 2000 Run
+[![AMD stock test](/img/test.png)]
 	
