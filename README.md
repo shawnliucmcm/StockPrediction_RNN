@@ -10,12 +10,9 @@
 	Python
 	Tensorflow(r1.0)
 	numpy(1.11.1)
-	pandas(0.16.2)
 	pandas_datareader
 
 	cuda (to run examples on GPU)
 	matplotlib (to draw plots)
 
-
-#### To-Do List:
 	
